@@ -20,3 +20,7 @@ print(d.maxlen)
 d.clear()
 
 printqueue(d)
+
+d.appendleft('D')
+
+printqueue(d)
